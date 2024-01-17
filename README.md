@@ -8,8 +8,6 @@
 
 📫 You can reach me at: yunusemre-kurt@outlook.com
 
-😄 Pronouns: he/him
-
 ⚡ Fun fact: I'm thrilled about coding together!
 
 Let's dive into code and create something amazing!
