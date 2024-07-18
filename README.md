@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
-<h3 align="center">I'm an Android developer eager to learn.</h3>
+<h3 align="center">I'm an Android developer eager to learn...</h3>
 
 - 🔭 I’m currently working on [GuvenliPati](https://github.com/ynsemrkurt/GuvenliPati)
 
